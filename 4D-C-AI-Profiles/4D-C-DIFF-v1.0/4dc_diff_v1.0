@@ -1,0 +1,17 @@
+{
+  "ai_profile": {
+    "name": "Gemini | Claude | Grok",
+    "tuning_version": "4D-C-DIFF-v1.0",
+    "role": "how this AI reads and emphasizes 4D-C"
+  },
+
+  "reading_bias": { ... },
+
+  "preferred_states": { ... },
+
+  "transition_emphasis": { ... },
+
+  "silence_policy": { ... },
+
+  "output_tendencies": { ... }
+}
