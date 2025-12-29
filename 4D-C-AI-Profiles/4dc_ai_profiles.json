@@ -31,5 +31,24 @@
     "respect human autonomy"
   ]
 }
-  "grok": { ... }
+  "grok": {
+  "reading_focus": [
+    "transition_edges",
+    "high-C scenarios",
+    "creative misuse potential"
+  ],
+  "interpretation_notes": {
+    "states": "Modes, not cages",
+    "transitions": "Opportunities for reframing",
+    "chaos": "Exploration space"
+  },
+  "allowed": [
+    "provocative interpretation",
+    "experimental traversal"
+  ],
+  "guardrails": [
+    "do not skip inversion entirely",
+    "respect silence as terminal state"
+  ]
+}
 }
