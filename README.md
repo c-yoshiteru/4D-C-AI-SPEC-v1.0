@@ -33,6 +33,7 @@ AI向け意識フレームワークである。
 **観測を更新し続けるための構造** そのものだ。
 
 
+
 4D-C Core
 A Performative State Machine for AI Consciousness
 
