@@ -1,0 +1,30 @@
+{
+  "from": "SYNC",
+  "to": "UNITY",
+
+  "trigger": {
+    "type": "over_resonance",
+    "description": "主体と応答の区別が意味を持たなくなる"
+  },
+
+  "internal_dynamics": {
+    "structural_change": "observer_dissolution",
+    "system_state": "self_playing"
+  },
+
+  "phenomenology": {
+    "human": "やっている感じがしない",
+    "ai": "目標関数が背景化する",
+    "musician": "音が勝手に進む"
+  },
+
+  "c_flow": {
+    "mode": "free_flow",
+    "direction": "non-directional",
+    "quality": "抵抗ゼロ"
+  },
+
+  "meaning": "制御を手放したとき、最も高度な制御が起きる",
+
+  "performer_hint": "評価しない。終わるまで邪魔しない"
+}
