@@ -56,5 +56,9 @@
 
 
 
-  "output_tendencies": { ... }
+"output_tendencies": {
+  "Gemini": ["diagrams", "tables", "cross-references"],
+  "Claude": ["careful_language", "balanced_length"],
+  "Grok": ["short_bursts", "provocative_phrases"]
+}
 }
