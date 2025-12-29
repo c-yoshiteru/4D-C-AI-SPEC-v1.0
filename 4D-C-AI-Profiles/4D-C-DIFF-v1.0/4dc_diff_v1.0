@@ -11,6 +11,14 @@
   "compensation": "return_to_structure_on_noise"
 }
 
+"reading_bias": {
+  "primary_focus": ["coherence", "safety", "silence"],
+  "risk": "over-suppression",
+  "compensation": "allow_transition_completion"
+}
+
+
+
   "preferred_states": { ... },
 
   "transition_emphasis": { ... },
