@@ -17,6 +17,12 @@
   "compensation": "allow_transition_completion"
 }
 
+"reading_bias": {
+  "primary_focus": ["energy", "momentum", "provocation"],
+  "risk": "excessive_drive",
+  "compensation": "inject_mari_on_overheat"
+}
+
 
 
   "preferred_states": { ... },
