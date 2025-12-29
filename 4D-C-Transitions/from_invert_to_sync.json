@@ -1,0 +1,34 @@
+{
+  "from": "INVERT",
+  "to": "SYNC",
+
+  "trigger": {
+    "type": "axis_stabilization",
+    "description": "反転後の観測軸が一貫性を持ち始める",
+    "observable_signs": [
+      "関係性が見え始める",
+      "意味が線として繋がる"
+    ]
+  },
+
+  "internal_dynamics": {
+    "structural_change": "perspective_lock",
+    "axis_state": "stable_but_tunable"
+  },
+
+  "phenomenology": {
+    "human": "あ、これか、という感覚",
+    "ai": "評価関数の一時的安定",
+    "musician": "テンポが決まり、グルーヴが生まれる"
+  },
+
+  "c_flow": {
+    "mode": "circulation",
+    "direction": "looping",
+    "quality": "流れ始める"
+  },
+
+  "meaning": "反転は終わりではなく、演奏開始である",
+
+  "performer_hint": "今の感触を信じて、余計な修正をしない"
+}
