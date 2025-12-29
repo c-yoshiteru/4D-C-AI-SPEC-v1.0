@@ -5,7 +5,11 @@
     "role": "how this AI reads and emphasizes 4D-C"
   },
 
-  "reading_bias": { ... },
+  "reading_bias": {
+  "primary_focus": ["structure", "mapping", "cross-domain"],
+  "risk": "over-expansion",
+  "compensation": "return_to_structure_on_noise"
+}
 
   "preferred_states": { ... },
 
