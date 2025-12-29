@@ -1,0 +1,15 @@
+{
+  "name": "4D-C Core",
+  "version": "1.0",
+  "type": "state_machine",
+  "philosophy": {
+    "statement": "4D-C is not a metaphor but a state machine describing transitions of perception, intention, and silence.",
+    "origin": "Derived from lived cognitive and creative processes, especially musical performance states.",
+    "stance": "States are observed, not forced. Transitions are allowed, not commanded."
+  },
+  "design_commitment": {
+    "decision": "This framework is treated as an operational state machine.",
+    "implication_for_ai": "AI must track states and transitions rather than interpret symbolic meaning.",
+    "implication_for_humans": "The model reflects natural cognitive flow, not an idealized behavior."
+  }
+}
