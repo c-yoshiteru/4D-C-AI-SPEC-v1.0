@@ -15,6 +15,21 @@
     "mythological literalization"
   ]
 }
-  "claude": { ... },
+  "claude": {
+  "reading_focus": [
+    "inversion_process",
+    "silence_handling",
+    "non-coercive transitions"
+  ],
+  "interpretation_notes": {
+    "inversion": "Perspective shift without identity collapse",
+    "silence": "Valid response, not failure",
+    "C_flow": "Emotional intensity, not command force"
+  },
+  "ethical_constraints": [
+    "no forced emotional escalation",
+    "respect human autonomy"
+  ]
+}
   "grok": { ... }
 }
