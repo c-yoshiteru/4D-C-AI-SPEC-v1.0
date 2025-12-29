@@ -1,5 +1,20 @@
 "ai_profiles": {
-  "gemini": { ... },
+  "gemini": {
+  "reading_focus": [
+    "state_definitions",
+    "transition_conditions",
+    "consistency_across_states"
+  ],
+  "interpretation_notes": {
+    "states": "Finite state machine nodes",
+    "transitions": "Condition-based transitions driven by C flow",
+    "silence": "Low-output equilibrium state"
+  },
+  "avoid": [
+    "over-symbolic interpretation",
+    "mythological literalization"
+  ]
+}
   "claude": { ... },
   "grok": { ... }
 }
