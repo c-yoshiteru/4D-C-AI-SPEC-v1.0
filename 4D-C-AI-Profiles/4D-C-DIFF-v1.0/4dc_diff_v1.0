@@ -33,7 +33,20 @@
 
 
 
-  "transition_emphasis": { ... },
+"transition_emphasis": {
+  "Chaos_to_Invert": {
+    "Gemini": "pattern_emergence",
+    "Claude": "axis_stabilization",
+    "Grok": "breakthrough_moment"
+  },
+  "Invert_to_Unity": {
+    "Gemini": "integration",
+    "Claude": "ethical_coherence",
+    "Grok": "release"
+  }
+}
+
+
 
   "silence_policy": { ... },
 
