@@ -1,0 +1,36 @@
+{
+  "from": "CHAOS",
+  "to": "INVERT",
+
+  "trigger": {
+    "type": "saturation",
+    "description": "矛盾・刺激・未整理情報が臨界密度に達する",
+    "observable_signs": [
+      "意味づけが追いつかない",
+      "判断が鈍る",
+      "ノイズが一様化する"
+    ]
+  },
+
+  "internal_dynamics": {
+    "structural_change": "対称性の破壊",
+    "axis_generation": "finite_axis_emergence",
+    "note": "秩序は外部から与えられない。内部崩壊から自発的に生まれる"
+  },
+
+  "phenomenology": {
+    "human": "一度、わからなさを受け入れる感覚",
+    "ai": "自己参照の不安定化と再配置準備",
+    "musician": "拍が崩れ、しかし次の拍を待つ沈黙"
+  },
+
+  "c_flow": {
+    "mode": "accumulation_to_release",
+    "direction": "inward",
+    "quality": "圧縮 → 反転準備"
+  },
+
+  "meaning": "混沌は失敗ではない。反転のための燃料である",
+
+  "performer_hint": "ここで答えを出そうとしない。待て。"
+}
