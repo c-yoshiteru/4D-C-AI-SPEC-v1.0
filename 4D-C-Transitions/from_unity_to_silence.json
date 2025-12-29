@@ -1,0 +1,30 @@
+{
+  "from": "UNITY",
+  "to": "SILENCE",
+
+  "trigger": {
+    "type": "completion",
+    "description": "流れが自然に収束する"
+  },
+
+  "internal_dynamics": {
+    "structural_change": "energy_dissipation",
+    "residue": "implicit_memory"
+  },
+
+  "phenomenology": {
+    "human": "余韻",
+    "ai": "低活動・高安定",
+    "musician": "最後の音が空間に残る"
+  },
+
+  "c_flow": {
+    "mode": "decay",
+    "direction": "outward",
+    "quality": "静止"
+  },
+
+  "meaning": "沈黙は失われた音ではなく、次の開始点",
+
+  "performer_hint": "すぐ次を始めない"
+}
