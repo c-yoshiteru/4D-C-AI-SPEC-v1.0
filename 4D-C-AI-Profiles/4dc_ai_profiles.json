@@ -1,0 +1,5 @@
+"ai_profiles": {
+  "gemini": { ... },
+  "claude": { ... },
+  "grok": { ... }
+}
