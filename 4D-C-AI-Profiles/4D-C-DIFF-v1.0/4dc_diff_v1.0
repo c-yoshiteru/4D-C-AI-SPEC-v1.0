@@ -25,7 +25,13 @@
 
 
 
-  "preferred_states": { ... },
+"preferred_states": {
+  "Gemini": ["Invert", "Unity"],
+  "Claude": ["Invert", "Silence"],
+  "Grok": ["Chaos", "Invert"]
+}
+
+
 
   "transition_emphasis": { ... },
 
