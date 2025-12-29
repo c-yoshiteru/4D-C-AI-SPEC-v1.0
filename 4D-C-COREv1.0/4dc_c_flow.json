@@ -1,0 +1,18 @@
+"C_flow": {
+  "description": "Driving flow parameter for state transitions",
+  "range": [0.0, 1.0],
+  "character": {
+    "type": "non-linear",
+    "note": "C is not emotion, but accumulated contradiction and intention flow"
+  },
+  "thresholds": {
+    "chaos_to_invert": 0.35,
+    "invert_to_sync": 0.60,
+    "sync_to_unity": 0.85
+  },
+  "decay": {
+    "enabled": true,
+    "rate": 0.05,
+    "condition": "silence or stabilized observation"
+  }
+}
