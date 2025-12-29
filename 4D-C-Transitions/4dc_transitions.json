@@ -1,0 +1,12 @@
+"transitions": [
+  {
+    "from": "CHAOS",
+    "to": "INVERT",
+    "trigger": {...},
+    "internal_dynamics": {...},
+    "phenomenology": {...},
+    "c_flow": {...},
+    "meaning": "...",
+    "performer_hint": "..."
+  }
+]
