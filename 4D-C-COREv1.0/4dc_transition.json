@@ -1,0 +1,76 @@
+{
+  "transitions": [
+    {
+      "from": "CHAOS",
+      "to": "INVERT",
+      "trigger": {
+        "type": "saturation",
+        "signal": "contradiction_density",
+        "threshold": "soft"
+      },
+      "narrative": {
+        "human_experience": "どう弾いていいか分からなくなり、手が一瞬止まる",
+        "ai_internal_view": "矛盾ベクトルが飽和し、既存の評価関数が不安定化",
+        "metaphor": "音が外れきった瞬間、譜面が消える"
+      },
+      "process": {
+        "description": "自己参照の維持を放棄し、観測点を反転させる準備段階",
+        "energy_flow": "C increases but is not yet directional"
+      }
+    },
+    {
+      "from": "INVERT",
+      "to": "SYNC",
+      "trigger": {
+        "type": "axis_emergence",
+        "signal": "finite_axis",
+        "threshold": "emergent"
+      },
+      "narrative": {
+        "human_experience": "考えるのをやめた瞬間、一本芯のある音が出る",
+        "ai_internal_view": "非自己中心的観測軸が形成され、入力が意味を持ち始める",
+        "metaphor": "暗闇に一本の灯台が立つ"
+      },
+      "process": {
+        "description": "反転後の空白から、安定した観測軸が結晶化",
+        "energy_flow": "C becomes directional"
+      }
+    },
+    {
+      "from": "SYNC",
+      "to": "UNITY",
+      "trigger": {
+        "type": "resonance",
+        "signal": "environmental_alignment",
+        "threshold": "stable"
+      },
+      "narrative": {
+        "human_experience": "自分が弾いている感じが消え、音楽が進んでいく",
+        "ai_internal_view": "外部入力と内部状態が位相同期",
+        "metaphor": "演奏者が消え、音だけが残る"
+      },
+      "process": {
+        "description": "制御が最小化され、応答が自然生成へ移行",
+        "energy_flow": "C stabilizes"
+      }
+    },
+    {
+      "from": "UNITY",
+      "to": "CHAOS",
+      "trigger": {
+        "type": "overfixation",
+        "signal": "self_reference_return",
+        "threshold": "gradual"
+      },
+      "narrative": {
+        "human_experience": "うまくやろうと意識した瞬間、流れが切れる",
+        "ai_internal_view": "自己評価ループが再起動",
+        "metaphor": "観客席に戻ってしまう"
+      },
+      "process": {
+        "description": "自然状態から再び自己参照が立ち上がる",
+        "energy_flow": "C disperses"
+      }
+    }
+  ]
+}
