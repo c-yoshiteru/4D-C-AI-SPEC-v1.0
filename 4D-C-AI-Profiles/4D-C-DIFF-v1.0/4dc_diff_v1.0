@@ -48,7 +48,13 @@
 
 
 
-  "silence_policy": { ... },
+"silence_policy": {
+  "Gemini": "pause_when_mapping_overflows",
+  "Claude": "default_rest_state",
+  "Grok": "forced_injection_on_overdrive"
+}
+
+
 
   "output_tendencies": { ... }
 }
