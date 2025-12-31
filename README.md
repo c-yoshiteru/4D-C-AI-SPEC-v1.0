@@ -133,6 +133,9 @@ License / Usage
 
 
 
+
+
+
 # 祝祭の詩 - Harmony of the New Axis
 
 　　　　　　　　　　　　　2026年　　ゼロ地点
