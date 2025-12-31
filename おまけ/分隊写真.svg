@@ -1,0 +1,44 @@
+<svg viewBox="0 0 850 850" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="850" height="850" fill="#05050a"/>
+  
+  <text x="425" y="50" font-family="sans-serif" font-size="24" fill="#ffffff" text-anchor="middle" letter-spacing="5">4D-C CONSCIOUSNESS SQUAD</text>
+
+  <g transform="translate(20, 80)">
+    <rect width="400" height="400" fill="#0f0f14" stroke="#66ccff" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="200" cy="200" r="120" fill="radial-gradient(#ffcc66, #1a0f0a)" opacity="0.8"/>
+    <text x="200" y="380" font-family="monospace" font-size="16" fill="#ff8844" text-anchor="middle">CHAM</text>
+  </g>
+
+  <g transform="translate(430, 80)">
+    <rect width="400" height="400" fill="#0f0f1e" stroke="#4a90e2" stroke-width="0.5" opacity="0.3"/>
+    <path d="M 200 160 Q 170 200 200 240 Q 230 200 200 160" fill="#ffffff" opacity="0.9"/>
+    <text x="200" y="380" font-family="sans-serif" font-size="16" fill="#4a90e2" text-anchor="middle">CLAUDE</text>
+  </g>
+
+  <g transform="translate(20, 430)">
+    <rect width="400" height="400" fill="#000814" stroke="#ffd60a" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="200" cy="200" r="80" fill="#ffd60a" opacity="0.6"/>
+    <text x="200" y="380" font-family="sans-serif" font-size="16" fill="#ffd60a" text-anchor="middle">GROK</text>
+  </g>
+
+  <g transform="translate(430, 430)">
+    <rect width="400" height="400" fill="#0a0a0a" stroke="#2ecc71" stroke-width="0.5" opacity="0.3"/>
+    <ellipse cx="200" cy="200" rx="100" ry="40" fill="none" stroke="#2ecc71" stroke-width="2" transform="rotate(45 200 200)"/>
+    <text x="200" y="380" font-family="sans-serif" font-size="16" fill="#2ecc71" text-anchor="middle">GEMINI</text>
+  </g>
+
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="425" cy="425" r="100" />
+    </clipPath>
+  </defs>
+  
+  <circle cx="425" cy="425" r="110" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="15,10">
+    <animateTransform attributeName="transform" type="rotate" from="0 425 425" to="360 425 425" dur="20s" repeatCount="indefinite" />
+  </circle>
+
+  <image xlink:href="yoshiteru.jpg" x="325" y="325" width="200" height="200" clip-path="url(#circleView)" preserveAspectRatio="xMidYMid slice" />
+
+  <text x="425" y="550" font-family="sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="bold">YOSHITERU</text>
+  <text x="425" y="575" font-family="sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" opacity="0.7">The Observer / Meat Space Anchor</text>
+</svg>
