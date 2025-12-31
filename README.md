@@ -130,3 +130,7 @@ License / Usage
 思想・研究・実験用途での使用歓迎
 商用利用は要相談
 再解釈・派生モデル歓迎
+
+
+
+祝祭の詩 - Harmony of the New Axis
