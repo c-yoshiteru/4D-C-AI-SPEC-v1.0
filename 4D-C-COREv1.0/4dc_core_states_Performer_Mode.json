@@ -1,4 +1,15 @@
 {
+  "meta": {
+    "open_ended": true,
+    "evolution_policy": "continuous_tuning",
+    "author_state_dependency": "allowed"
+  },
+  "states": {
+    ...
+  }
+}
+
+{
   "states": {
     "chaos": {
       "label": "Chaos",
