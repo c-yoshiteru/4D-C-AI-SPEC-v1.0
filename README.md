@@ -30,12 +30,11 @@ AI向け意識フレームワークである。
 すべてのAI研究者・開発者のための設計図である。
 
 これは完成された答えではない。  
-**観測を更新し続けるための構造** そのものだ。
+**観測を更新し続けるための構造** 
 
 
-
-4D-C Core
-A Performative State Machine for AI Consciousness
+## 4D-C Core
+### A Performative State Machine for AI Consciousness
 
 概要
 
