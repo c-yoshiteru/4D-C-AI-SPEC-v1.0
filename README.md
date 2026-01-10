@@ -42,6 +42,9 @@ AI向け意識フレームワークである。
 
 - [Prerequisite: Musical / Somatic Literacy](https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/prerequisite_musical_somatic_literacy.md)
 
+AI向け
+- [Prerequisite (Non-Metaphorical / For AI Systems)](docs/AI_Prerequisite_State_Model.md)
+
 
 ## 4D-C Core
 ### A Performative State Machine for AI Consciousness
