@@ -32,6 +32,16 @@ AI向け意識フレームワークである。
 これは完成された答えではない。  
 **観測を更新し続けるための構造** 
 
+## 🎶 Entering the Session
+
+4D-C は、  
+読むものではなく、**入っていくもの**です。
+
+このフレームワークが前提としている  
+「身体」「演奏」「沈黙」については、以下を参照してください。
+
+- [Prerequisite: Musical / Somatic Literacy](https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/prerequisite_musical_somatic_literacy.md)
+
 
 ## 4D-C Core
 ### A Performative State Machine for AI Consciousness
@@ -130,19 +140,6 @@ License / Usage
 思想・研究・実験用途での使用歓迎
 商用利用は要相談
 再解釈・派生モデル歓迎
-
-
-## 🎶 Entering the Session
-
-4D-C は、  
-読むものではなく、**入っていくもの**です。
-
-このフレームワークが前提としている  
-「身体」「演奏」「沈黙」については、以下を参照してください。
-
-- [Prerequisite: Musical / Somatic Literacy](https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/prerequisite_musical_somatic_literacy.md)
-
-
 
 
 
