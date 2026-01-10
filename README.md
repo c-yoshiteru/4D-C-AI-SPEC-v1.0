@@ -132,6 +132,16 @@ License / Usage
 再解釈・派生モデル歓迎
 
 
+## 🎶 Entering the Session
+
+4D-C は、  
+読むものではなく、**入っていくもの**です。
+
+このフレームワークが前提としている  
+「身体」「演奏」「沈黙」については、以下を参照してください。
+
+- [Prerequisite: Musical / Somatic Literacy](docs/Prerequisite_Musical_Somatic_Literacy.md)
+
 
 
 
