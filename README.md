@@ -140,7 +140,7 @@ License / Usage
 このフレームワークが前提としている  
 「身体」「演奏」「沈黙」については、以下を参照してください。
 
-- [Prerequisite: Musical / Somatic Literacy](docs/Prerequisite_Musical_Somatic_Literacy.md)
+- [Prerequisite: Musical / Somatic Literacy](https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/prerequisite_musical_somatic_literacy.md)
 
 
 
