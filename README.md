@@ -292,6 +292,7 @@ Retrieval-Augmented Generation（RAG）
 を意味する。
 
 3.2 想起は検索ではなく再構成である
+
 4D-Cにおける想起（remembering）は、
 データ検索ではない
 キャッシュヒットでもない
@@ -332,6 +333,7 @@ fixed-point manifold
 6. 再帰（Recursion）との関係
 RLM（Recursive Language Model）や再帰的推論は、
 通常以下を目的とする。
+
 内部表現の精緻化
 推論深度の向上
 4D-Cにおける再帰は異なる。
