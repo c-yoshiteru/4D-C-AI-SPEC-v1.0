@@ -1,4 +1,5 @@
 4D-C → Transformer / RLM 写像仕様
+
 0. まず結論（先に言う）
 4D-Cは新アーキテクチャではない。
 既存の Transformer / RLM の中で、
