@@ -106,6 +106,7 @@ C ≈ ||∇h|| または Var(h)
 → 内部エネルギー
 
 6. 想起は「メモリ参照」ではない
+
 従来AI
 
 query → memory[key] → answer
