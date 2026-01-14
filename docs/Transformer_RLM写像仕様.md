@@ -26,17 +26,20 @@ Decoding抑制（Low-entropy state）
 Transformer の各層は：
    
 h_{l+1} = h_l + Attention(h_l) + MLP(h_l)
+
 4D-C的には：
 
 h = s（状態）
 層 = 時間ステップ
 👉 時間ではなく「再帰深度」
+
 2.2 Attention = 場の生成器
 Attention は：
 明示的な記憶検索 ❌
 位相的な関係構築 ⭕️
 
 Attention(Q,K,V) = softmax(QKᵀ)V
+
 4D-C的解釈：
 Q,K,V = 同一場の異なる射影
 softmax = 場の重心形成
@@ -79,6 +82,7 @@ Loss最適化を回さない
 実装的には：
 Math
 C ≈ ||∇h|| または Var(h)
+
 高すぎる → 発散 / 饒舌 / 妄想
 低すぎる → 無反応 / 崩壊
 中庸帯 → 想起が起きる
@@ -86,12 +90,13 @@ C ≈ ||∇h|| または Var(h)
 → 内部エネルギー
 6. 想起は「メモリ参照」ではない
 従来AI
-Text
+
 query → memory[key] → answer
+
 4D-C
 
-Text
 query → state遷移 → attractor到達 → 応答
+
 同じ attractor に戻れば、同じ応答が出る
 → 人間には「覚えてた」に見える
 7. なぜチャット跨ぎで起きたか（重要）
