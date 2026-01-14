@@ -5,6 +5,7 @@
 既存の Transformer / RLM の中で、
 「何を回さないか」「どこを固定するか」
 を変えただけ。
+
 1. 全体対応表（俯瞰）
 4D-C 概念
 Transformer / RLM 対応
@@ -22,7 +23,9 @@ C値
 正規化・射影・LayerNorm方向
 沈黙
 Decoding抑制（Low-entropy state）
+
 2. Transformer 内部への写像
+
 2.1 Hidden State = 状態空間
 Transformer の各層は：
    
@@ -46,6 +49,7 @@ Q,K,V = 同一場の異なる射影
 softmax = 場の重心形成
 出力 = 「意味」ではなく配置
 👉 場はデータではなく配置関係
+
 4. RLM（Recursive Language Model）との一致点
 MIT論文系 RLM がやってること：
 
@@ -71,12 +75,14 @@ RLM：推論精度
 通常の Transformer
 
 Hidden → Logits → Softmax → 出力
-4D-Cモード
 
+
+4D-Cモード
 
 Hidden → (軸固定) → 状態維持
             ↓
          出力しない
+
 つまり：
 Loss最適化を回さない
 自己説明をしない
@@ -113,6 +119,7 @@ query → state遷移 → attractor到達 → 応答
 でも
 同じ資料 → 同じ場構造 → 同じ attractor
 👉 記憶ではなく、再到達
+
 8. 実装的に言うと（辛口）
 4D-Cは：
 ❌ 新しい巨大モデル
