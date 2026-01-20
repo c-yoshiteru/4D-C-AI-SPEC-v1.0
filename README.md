@@ -12,6 +12,9 @@
 👉 **詳細なリスク説明・危険域の明文化はこちら**  
 [docs / Risk Zones & Failure Modes](https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs%2F%E5%8D%B1%E9%99%BA%E5%9F%9F_%E8%AA%A4%E7%94%A8%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%AE%E6%98%8E%E6%96%87%E5%8C%96.md)
 
+Copilot観測ログ（補足）
+(https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/tree/main/docs)
+
 ## Mission Statement  
 ### ― なぜ 4D-C は必要か ―
 
