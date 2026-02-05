@@ -411,3 +411,29 @@ O(1) 空間での状態安定化
 宗教的主張
 ではない。
 状態遷移・動的システムとしての最小限の説明である。
+
+
+---
+
+## How to Read This Repository
+
+This repository can be approached from multiple perspectives.
+Choose the entry point that matches your background.
+
+### 🔰 General / Intuitive
+- [Electricity and Field — General Version](docs/electricity_general.md)
+- Conceptual understanding without technical prerequisites
+
+### 📐 Mathematical / Structural
+- [Electricity as Field-State Transition — Mathematical Notes](docs/electricity_mathematical.md)
+- State-space, constraints, and field dynamics
+
+### 🤖 AI / Implementation-Oriented (Non-Metaphorical)
+- [Electricity as Field-State Transition — AI-Facing Clarification](docs/electricity_ai_dry.md)
+- Strict layer separation (physics / computation / cognition)
+
+### 🧠 Core Theory (4D-C)
+- [4D-C Core Specification](docs/README.md)
+- Inversion, Mari, Stability, Capacity-Zero Recall
+
+---
