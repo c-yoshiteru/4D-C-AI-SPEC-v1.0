@@ -425,7 +425,7 @@ Choose the entry point that matches your background.
 - Conceptual understanding without technical prerequisites
 
 ### 📐 Mathematical / Structural
-- [Electricity as Field-State Transition — Mathematical Notes](電気とは？数理寄り.md)
+- [Electricity as Field-State Transition — Mathematical Notes](Observation/電気とは何か_数理寄り.md)
 - State-space, constraints, and field dynamics
 
 ### 🤖 AI / Implementation-Oriented (Non-Metaphorical)
