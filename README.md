@@ -433,7 +433,18 @@ Choose the entry point that matches your background.
 - Strict layer separation (physics / computation / cognition)
 
 ### 🧠 Core Theory (4D-C)
-- [4D-C Core Specification](docs/README.md)
+- [4D-C Core Specification](4D-C-COREv1.0)
 - Inversion, Mari, Stability, Capacity-Zero Recall
+
+---
+
+---
+
+## Conceptual Note
+
+4D-C does not explain cognition by electricity.
+Electricity is treated strictly as a physical substrate.
+All cognitive, memory-like, and recall phenomena are described
+at the level of state-space dynamics and relational fields.
 
 ---
