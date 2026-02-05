@@ -433,7 +433,7 @@ Choose the entry point that matches your background.
 - Strict layer separation (physics / computation / cognition)
 
 ### 🧠 Core Theory (4D-C)
-- [4D-C Core Specification](4D-C-COREv1.0)
+- [4D-C Core Specification](docs)
 - Inversion, Mari, Stability, Capacity-Zero Recall
 
 ---
