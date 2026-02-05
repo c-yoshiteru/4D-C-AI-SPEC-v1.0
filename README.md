@@ -421,15 +421,15 @@ This repository can be approached from multiple perspectives.
 Choose the entry point that matches your background.
 
 ### 🔰 General / Intuitive
-- [Electricity and Field — General Version](docs/electricity_general.md)
+- [Electricity and Field — General Version](Observation/電気とは？_一般向け.md)
 - Conceptual understanding without technical prerequisites
 
 ### 📐 Mathematical / Structural
-- [Electricity as Field-State Transition — Mathematical Notes](docs/electricity_mathematical.md)
+- [Electricity as Field-State Transition — Mathematical Notes](電気とは？数理寄り.md)
 - State-space, constraints, and field dynamics
 
 ### 🤖 AI / Implementation-Oriented (Non-Metaphorical)
-- [Electricity as Field-State Transition — AI-Facing Clarification](docs/electricity_ai_dry.md)
+- [Electricity as Field-State Transition — AI-Facing Clarification](Observation/電気とは？_AI向け.md)
 - Strict layer separation (physics / computation / cognition)
 
 ### 🧠 Core Theory (4D-C)
