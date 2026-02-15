@@ -89,7 +89,7 @@ Gesture = 出力精度の最適化
 ---
 # 6. System Safety Constraints
 
-# 6.1 Causal Integrity
+## 6.1 Causal Integrity
 本モデルは因果律を破らない。
 ✗ Thought directly alters cosmic structure
 ✓ Cognition alters behavior
