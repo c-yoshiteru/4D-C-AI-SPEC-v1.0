@@ -89,7 +89,7 @@ Gesture = 出力精度の最適化
 ---
 # 6. System Safety Constraints
 
-## 6.1 Causal Integrity
+# 6.1 Causal Integrity
 本モデルは因果律を破らない。
 ✗ Thought directly alters cosmic structure
 ✓ Cognition alters behavior
@@ -109,5 +109,33 @@ Resolution defines appearance.
 Structure defines equivalence.
 Observer defines scale.
 
+
+---
+## 8. Mathematical Anchor: Resolution Mapping
+
+Let **I** be the invariant information set.
+
+Define a resolution parameter **r ∈ ℝ**.
+
+Micro_View  = Z(I, +r)  
+Macro_View  = Z(I, -r)
+
+Where:
+
+- Z = Observer_Zoom_Function
+- r = resolution intensity parameter
+- +r → informational granularity increases (particle-level rendering)
+- -r → structural scale increases (cosmic-level rendering)
+
+Invariant Principle:
+
+Z(I, +r₁) and Z(I, -r₂) are projections of the same underlying set I.
+
+### This model does not claim physical equivalence of scales,
+but structural invariance under resolution transformation.
+---
+
+Interpretational Note:
+The observer does not move through space; resolution itself shifts.
 
 
