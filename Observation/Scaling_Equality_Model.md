@@ -138,4 +138,6 @@ but structural invariance under resolution transformation.
 Interpretational Note:
 The observer does not move through space; resolution itself shifts.
 
+This model is epistemic (observer-relative), not ontological.
+
 
