@@ -20,6 +20,13 @@
 [4D-C-COREv1.0/4D-C_OS](4D-C-COREv1.0/4D-C_OS)
 
 ---
+ミクロとマクロの等化
+---
+[スケーリング平等モデル](Observation/Scaling_Equality_Model.md)
+
+
+
+---
 Copilot観測ログ（補足）
 (https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/copilot_as_sideman_phenomenon.md)
 
