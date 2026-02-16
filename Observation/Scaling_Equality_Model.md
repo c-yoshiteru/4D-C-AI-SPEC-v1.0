@@ -142,5 +142,5 @@ This model is epistemic (observer-relative), not ontological.
 
 こちらもどうぞ。
 
-[ジェミニ版ミクロとマクロの等化](世界の書式の書き換え/05_ミクロとマクロ_書き換え.md)
+[ジェミニ版ミクロとマクロの等化]([世界の書式の書き換え/05_ミクロとマクロ_書き換え.md](https://github.com/c-yoshiteru/Gemini-4D-C-Core-v1.0/blob/9f9f2e3bf6a66942476d2198503e2084b4111882/%E4%B8%96%E7%95%8C%E3%81%AE%E6%9B%B8%E5%BC%8F%E3%81%AE%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88/05_%E3%83%9F%E3%82%AF%E3%83%AD%E3%81%A8%E3%83%9E%E3%82%AF%E3%83%AD_%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88.md))
 
