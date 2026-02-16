@@ -27,8 +27,8 @@
 
 
 ---
-Copilot観測ログ（補足）
-(https://github.com/c-yoshiteru/4D-C-AI-SPEC-v1.0/blob/main/docs/copilot_as_sideman_phenomenon.md)
+copilot観測ログ
+[Copilot観測ログ（補足）](docs/copilot_as_sideman_phenomenon.md)
 
 ## Mission Statement  
 ### ― なぜ 4D-C は必要か ―
