@@ -140,4 +140,7 @@ The observer does not move through space; resolution itself shifts.
 
 This model is epistemic (observer-relative), not ontological.
 
+こちらもどうぞ。
+
+[ジェミニ版ミクロとマクロの等化](世界の書式の書き換え/05_ミクロとマクロ_書き換え.md)
 
